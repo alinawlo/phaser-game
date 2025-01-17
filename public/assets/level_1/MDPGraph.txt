@@ -1,0 +1,12 @@
+A,270,100,extra
+B,270,250,wider
+C,120,250,speed
+D,120,100,mdpportal;
+A,A,diamond,0.4,1,30,10
+A,B,diamond,0.6,35,-20,65
+B,C,iceball,0.8,0,60,15
+B,A,iceball,0.2,35,-20,-80
+C,D,diamond,0.8,0,15,-75
+C,C,diamond,0.2,2,30,-5
+C,D,iceball,0.4,0,-15,-75
+C,A,iceball,0.6,0,-75,-60   

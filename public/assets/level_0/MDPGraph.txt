@@ -1,0 +1,7 @@
+A,370,100
+B,245,100,speed
+C,120,100,mdpportal0;
+A,B,diamond,1,0,50,15,4
+A,A,iceball,1,1,30,0,4
+B,C,iceball,1,0,50,15,4
+B,B,diamond,1,1,30,0,4

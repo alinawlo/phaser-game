@@ -1,0 +1,38 @@
+Game Credits
+
+This game wouldn't be possible without the work of many artists. This 
+document serves to acknowledge and appreciate their contributions.
+
+Graphics
+• Character sprites for boss enemy - Created by Necromancer. Available under 
+the terms of the open source license at
+https://creativekind.itch.io/necromancer-free
+• Assets images for level 1 - Designed by Szadi art. Available under the terms 
+of the open-source license at https://szadiart.itch.io/crystal-world-platformerset
+• Assets images / Enemies for level 2- Designed by Ansimuz. Available under 
+the terms of the open-source license at https://ansimuz.itch.io/gothicvaniacemetery
+• Assets images for level 3- Designed by Ansimuz. Available under the terms of 
+the open-source license at https://ansimuz.itch.io/magic-cliffs-environment.
+• Background images for level 3- Designed by Trixie. Available under the terms 
+of the open-source license at https://trixelized.itch.io/starstring-fields
+• Title screen – created by Anokolisa. Available under the terms of the open 
+source license at https://anokolisa.itch.io/moon-graveyard
+• Background for tutorial – created by Ansimuz. Available under the terms of 
+the open source license at https://luizmelo.itch.io/monsters-creatures-fantasy
+• Enemies for tutorial – created by LuizMelo. Available under the terms of the 
+open source license at https://luizmelo.itch.io/monsters-creatures-fantasy
+• Tile-Assets for tutorial - Designed by Szadi art. Available under the terms of 
+the open source license at https://aamatniekss.itch.io/free-pixelart-tileset-cuteforest
+• Character sprites for enemies in level 3- Designed by Szadi art. Available 
+under the terms of the open source license at https://szadiart.itch.io/animatedcharacter-pack
+• Hourglass – created by Zeodoz. Available under the terms of the public 
+domain at https://opengameart.org/content/animated-hourglass
+
+
+Sound Effects
+"Jingle Achievement_00" - Created by „LittleRobotSoundFactory”. Available under the 
+terms of the Attribution 4.0 Lincense at 
+https://freesound.org/people/LittleRobotSoundFactory/sounds/270331/
+"Hero_Death_00" - Created by „LittleRobotSoundFactory”. Available under the terms of 
+the Attribution 4.0 Lincense at 
+https://freesound.org/people/LittleRobotSoundFactory/sounds/270328

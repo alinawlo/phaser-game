@@ -1,0 +1,7 @@
+A,240,80
+B,240,220,wider
+C,100,220,speed
+D,100,80,extra;    
+A,B,diamond,1,0,-15,65,
+B,C,iceball,1,0,65,20   
+C,D,diamond,1,0,-15,-65 
